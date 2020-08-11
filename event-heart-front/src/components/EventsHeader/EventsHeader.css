@@ -1,0 +1,13 @@
+.EventsHeader {
+    background-color: bisque;
+    display: flow-root;
+}
+
+.left {
+    float: left;
+}
+
+.rigth {
+    float: right;
+    margin-top: 20px;
+}
